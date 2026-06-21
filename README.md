@@ -1,4 +1,4 @@
-![Uploading изображение.png…]()
+<img width="487" height="483" alt="изображение" src="https://github.com/user-attachments/assets/70baf2e2-911e-4523-ba73-6981b9880417" />
 
 Simple Radio written on C++, And using cstdlib.
 
