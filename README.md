@@ -2,6 +2,28 @@
 
 Simple Radio written on C++, And using cstdlib.
 
+------------------------------
+
+AFTER RUN RADIO INSTALL:
+
+Ubuntu & Debian:
+
+sudo apt install mpv
+
+Arch:
+
+sudo pacman -S mpv
+
+SUSE:
+
+sudo zypper install mpv
+
+Fedora & RedHat
+
+sudo dnf install mpv
+
+------------------------------
+
 Standarts Station:
 
 1. Вести ФМ (Vesti FM)
