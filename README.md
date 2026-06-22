@@ -4,7 +4,7 @@ Simple Radio written on C++, And using cstdlib.
 
 ------------------------------
 
-AFTER RUN RADIO INSTALL:
+BEFORE RUN RADIO INSTALL:
 
 Ubuntu & Debian:
 
