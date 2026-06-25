@@ -2,30 +2,33 @@
 
 Simple Radio written on C++, And using mpv.
 
-------------------------------
+---
 
 If you are using Windows, you do not need to download the mpv dependency.
 
-------------------------------
+---
 
 If you are using Linux download mpv:
 
 Ubuntu & Debian: sudo apt install mpv
 
-Arch: sudo pacman -S mpv
+Arch:
+```bash
+sudo pacman -S mpv
+```
 
 SUSE: sudo zypper install mpv
 
 Fedora & RedHat sudo dnf install mpv
 
-------------------------------
+---
 
 Standarts Station:
 
 1. Вести ФМ (Vesti FM)
 2. Радио Маяк (Radio Mayak)
 3. Русское Радио (Russkoe Radio)
-4. Радио Шансон (Radio Shanshon)
+4. Радио Шансон (Radio Shanson)
 5. Хайп ФМ (Hype FM)
 6. Ретро ФМ (Retro FM)
 7. Дорожное Радио (Dorozhnoe Radio)
