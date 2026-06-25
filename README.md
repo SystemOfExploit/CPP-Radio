@@ -4,11 +4,11 @@ Simple Radio written on C++, And using mpv.
 
 ---
 
-If you are using Windows, you do not need to download the mpv dependency.
+***If you are using Windows, you do not need to download the mpv dependency.***
 
 ---
 
-If you are using Linux download mpv:
+***If you are using Linux download mpv:***
 
 Ubuntu & Debian: 
 ```bash
