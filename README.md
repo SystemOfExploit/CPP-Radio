@@ -19,7 +19,7 @@ Arch:
 sudo pacman -S mpv
 ```
 
-SUSE: 
+OpenSUSE & SUSE: 
 ```bash
 sudo zypper install mpv
 ```
