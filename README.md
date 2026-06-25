@@ -1,4 +1,4 @@
-<img width="487" height="483" alt="изображение" src="https://github.com/user-attachments/assets/70baf2e2-911e-4523-ba73-6981b9880417" />
+<img width="551" height="330" alt="изображение" src="https://github.com/user-attachments/assets/0a762b1f-5bf8-4313-9ded-21b91d5ce7fd" />
 
 Simple Radio written on C++, And using cstdlib.
 
