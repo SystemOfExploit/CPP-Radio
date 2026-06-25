@@ -19,10 +19,14 @@ Arch:
 sudo pacman -S mpv
 ```
 
-SUSE: sudo zypper install mpv
-
-Fedora & RedHat sudo dnf install mpv
-
+SUSE: 
+```bash
+sudo zypper install mpv
+```
+Fedora & RedHat: 
+```bash
+sudo dnf install mpv
+```
 ---
 
 Standarts Station:
