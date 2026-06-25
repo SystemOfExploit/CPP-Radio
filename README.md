@@ -8,7 +8,7 @@ If you are using Windows, you do not need to download the mpv dependency.
 
 ------------------------------
 
-BEFORE RUN RADIO INSTALL:
+If you are using Linux download mpv:
 
 Ubuntu & Debian: sudo apt install mpv
 
