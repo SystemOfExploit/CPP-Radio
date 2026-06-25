@@ -14,7 +14,7 @@ Ubuntu & Debian:
 ```bash
 sudo apt install mpv
 ```
-Arch:
+Arch & Artix:
 ```bash
 sudo pacman -S mpv
 ```
