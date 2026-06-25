@@ -29,7 +29,7 @@ sudo dnf install mpv
 ```
 ---
 
-Standarts Station:
+***Standarts Station:***
 
 1. Вести ФМ (Vesti FM)
 2. Радио Маяк (Radio Mayak)
