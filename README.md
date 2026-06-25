@@ -10,21 +10,13 @@ If you are using Windows, you do not need to download the mpv dependency.
 
 BEFORE RUN RADIO INSTALL:
 
-Ubuntu & Debian:
+Ubuntu & Debian: sudo apt install mpv
 
-sudo apt install mpv
+Arch: sudo pacman -S mpv
 
-Arch:
+SUSE: sudo zypper install mpv
 
-sudo pacman -S mpv
-
-SUSE:
-
-sudo zypper install mpv
-
-Fedora & RedHat
-
-sudo dnf install mpv
+Fedora & RedHat sudo dnf install mpv
 
 ------------------------------
 
