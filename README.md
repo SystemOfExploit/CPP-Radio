@@ -4,6 +4,10 @@ Simple Radio written on C++, And using cstdlib.
 
 ------------------------------
 
+If you are using Windows, you do not need to download the mpv dependency.
+
+------------------------------
+
 BEFORE RUN RADIO INSTALL:
 
 Ubuntu & Debian:
